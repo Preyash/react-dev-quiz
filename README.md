@@ -20,6 +20,9 @@ function print(x: number): number {
 console.log(print(66))
 ```
 
+#### Code from task 2:
+![task2](./src/img/task2.png)]
+
 
 #### Code from task 3:
 ```sh
