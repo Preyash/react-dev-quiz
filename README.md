@@ -1,5 +1,8 @@
 # react-dev-quiz
 
+npm install
+npm run dev
+
 #### Code from task 1:
 ```sh
 function positiveInteger(x: number): number {
@@ -19,10 +22,6 @@ function print(x: number): number {
 }
 console.log(print(66))
 ```
-
-#### Code from task 2:
-![task2](./src/img/task2.png)]
-
 
 #### Code from task 3:
 ```sh
@@ -44,3 +43,6 @@ if (recipe == 'SPANISH') {
    sugar = sugarContent;
 }
 ```
+
+#### task 4 answer:
+> .json() is an async method (it returns a Promise itself), so you have to assign the parsed value(server_echo) in the next .then()
