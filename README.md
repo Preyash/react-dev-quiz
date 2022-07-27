@@ -1,7 +1,7 @@
 # react-dev-quiz
 
-npm install
-npm run dev
+- npm install
+- npm run dev
 
 #### Code from task 1:
 ```sh
